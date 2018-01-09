@@ -9,5 +9,5 @@
 	"starts": "2018-03-5T09:30:00+01:00",
 	"ends": "2018-03-9T20:30:00+01:00",
     "tags": "iff18",
-	"attributes": "code-of-conduct",
+	"attributes": ["code-of-conduct"]
 }
