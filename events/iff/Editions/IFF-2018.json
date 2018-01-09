@@ -1,0 +1,13 @@
+{
+	"title": "Internet Freedom Festival 2018",
+	"type": 0,
+	"description": "Since its beginning as the Circumvention Tech Festival in 2015, the Internet Freedom Festival (IFF) has grown into one of the largest, most diverse and inclusive gatherings in the Internet Freedom community. Each year, the IFF brings together those who defend digital rights around the world – journalists, activists, technologists, policy advocates, digital safety trainers, and designers – in support of digital rights and online freedom expression.",
+	"website": "https://internetfreedomfestival.org/",
+	"country": "ES",
+	"city": "Valencia",
+	"address": "Calle de Juan Verdeguer 16,",
+	"starts": "2018-03-5T09:30:00+01:00",
+	"ends": "2018-03-9T20:30:00+01:00",
+    "tags": "iff18",
+	"attributes": ["code-of-conduct"]
+}
